@@ -1,2 +1,2 @@
 # vGroupMining
-This is Di's paper's sourc of Mining Homogenous Groups from Geo-tagged Videos 
+This is Di's paper's source code of Mining Homogenous Groups from Geo-tagged Videos 
